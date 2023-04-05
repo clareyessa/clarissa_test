@@ -13,4 +13,4 @@ Clarissa can be reached at [email](mailto:clareyes@ucanr.edu).
 we are doing a great job!
 CR edit
 
-## Git Workflow
+## `Git` Workflow
