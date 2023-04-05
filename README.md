@@ -13,4 +13,14 @@ Clarissa can be reached at [email](mailto:clareyes@ucanr.edu).
 we are doing a great job!
 CR edit
 
-## `Git` Workflow
+## `Git()` Workflow
+
+- Owner invites collaborator
+- Collaborator accepts invite
+- Collaborator clones repository and starts new project in R Studio using Version Control
+- Paste in URL
+- Open readme file
+- Make edits and save
+- Click box, commit edits in R Studio
+- In new R window, make comments, commit, pull, push
+
