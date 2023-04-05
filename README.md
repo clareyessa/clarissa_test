@@ -23,4 +23,4 @@ CR edit
 - Make edits and save
 - Click box, commit edits in R Studio
 - In new R window, make comments, commit, pull, push
-
+- CONFLICT CHANGE CR
